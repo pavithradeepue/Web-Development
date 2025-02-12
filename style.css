@@ -1,0 +1,25 @@
+*
+ {
+
+    background-color: rgb(241, 250, 250);
+    color: rgb(228, 5, 5);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+} 
+.btn{
+    color: coral;
+    background-color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 16px 21px;
+    font-size: 25px;
+    cursor: pointer;
+    border: none;
+    border-radius: 28px;
+    width: auto;
+    transition: background-color 0.45s ease-in;
+}
+.btn:hover{
+    color: green;
+    background-color: blue;
+
+}
